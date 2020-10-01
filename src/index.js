@@ -10,7 +10,6 @@ import "../src/assets/vendor/font-awesome/css/font-awesome.min.css";
 import "../src/assets/scss/argon-design-system-react.scss";
 import ProjectItem from './projectItm.component';
 import EventItems from './eventItems.component';
-
 import * as serviceWorker from './serviceWorker';
 
 
