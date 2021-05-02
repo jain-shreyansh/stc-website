@@ -448,8 +448,8 @@ html {
   margin-bottom: 15vmin;
   font-size: 16px;
   text-align: center;
-  overflow: hidden;
-  white-space: nowrap;
+  /* overflow: hidden;
+  white-space: nowrap; */
 }
 
 .img-center {
